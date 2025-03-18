@@ -24,7 +24,7 @@
 
 ## 🌐 Demo en vivo
 
-Puedes ver la aplicación funcionando [aquí](https://scysco.github.io/one-amigo_secreto).
+Puedes ver la aplicación funcionando [aquí](https://scysco.github.io/ONE-Amigo_Secreto/).
 
 ## 📚 Cómo usarlo
 
